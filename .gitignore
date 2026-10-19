@@ -11,6 +11,9 @@
 *.sln.docstates
 *.env
 
+.opencode/
+openspec/
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
