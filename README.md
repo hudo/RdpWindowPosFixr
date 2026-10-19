@@ -22,6 +22,8 @@ After such a reconnect, apps that were on the second monitor can still appear on
 
 ## Build and run
 
+Download release EXE (https://github.com/hudo/RdpWindowPosFixr/releases) or build from source:
+
 ```powershell
 dotnet build src/WindowFixer.csproj
 dotnet run --project src/WindowFixer.csproj
