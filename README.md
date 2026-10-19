@@ -55,3 +55,9 @@ Detection and placement use physical pixels. `WINDOWPLACEMENT.rcNormalPosition` 
 - Windows only.
 - Intended for the RDP reconnect scenario; it does not manage monitor topology or save/restore layouts.
 - An app that snaps itself back to its saved position right after being moved will simply reappear as stranded on the next scan.
+
+## Disclaimer
+
+Developed with AI assistance and human oversight.   
+Tools used: OpenCode (+Oh My OpenCode Slim), OpenSpec, Visual Studio 2026.
+
